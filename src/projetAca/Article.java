@@ -10,7 +10,7 @@ public class Article {
 		super();
 		this.numero = numero;
 		this.nom = nom;
-		this.prix = prix;
+		this.prix = prix; 
 	}
 	public int getNumero() {
 		return numero;
